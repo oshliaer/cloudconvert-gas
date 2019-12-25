@@ -1,2 +1,4 @@
+/.clasp.json
 node_modules
-starter
+build
+dist
